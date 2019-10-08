@@ -1,5 +1,5 @@
 # 姿势教程
-
+[bilibili](https://www.bilibili.com/video/av34833230)
 ### 正站
 1. 直着站立的照片时，一只脚微微往前。进阶则呈现k字略带弯曲。
 2. 背身k字形腿。
