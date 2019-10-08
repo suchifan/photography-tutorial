@@ -6,25 +6,25 @@
 3. 背身k字形腿回头。
 4. 胯一侧微微抬，腿也可以放到旁边去。切勿腰和胯在同一个水平面上，缺少线条的变化。
 
-![avatar](pose1.png)
-![avatar](pose2.png)
-![avatar](pose3.png)
-![avatar](pose4.png)
+![avatar](pic/pose1.png)
+![avatar](pic/pose2.png)
+![avatar](pic/pose3.png)
+![avatar](pic/pose4.png)
 
 ---
 ### 侧站
 *比较显瘦*
 1. 侧站双腿稍稍分开。后脚脚尖点地显得腿长。两条腿如果叠起来容易显得腿粗。
 
-![avatar](pose5.png)
+![avatar](pic/pose5.png)
 
 ---
 ### 脸部
 1. 脖子稍微伸前一点点，然后再往下压。这样可以缩小双下巴。
 2. 脸稍稍侧一点点，可以使脸显得更瘦更好看。
 
-![avatar](pose6.png)
-![avatar](pose7.png)
+![avatar](pic/pose6.png)
+![avatar](pic/pose7.png)
 
 ---
 ### 坐姿
@@ -32,9 +32,9 @@
 2. 换个角度，人往后腿往前。切勿驼背，要把肩膀打开。
 3. 不要盘腿坐，会显得腿粗。把一条腿对着镜头立起来。
 
-![avatar](pose8.png)
-![avatar](pose9.png)
-![avatar](pose10.png)
+![avatar](pic/pose8.png)
+![avatar](pic/pose9.png)
+![avatar](pic/pose10.png)
 
 ---
 ### 脸部特写
@@ -46,7 +46,7 @@
 4. 侧/背过身去，不要看镜头
 
 
-![avatar](pose11.png)
-![avatar](pose12.png)
-![avatar](pose13.png)
-![avatar](pose14.png)
+![avatar](pic/pose11.png)
+![avatar](pic/pose12.png)
+![avatar](pic/pose13.png)
+![avatar](pic/pose14.png)
